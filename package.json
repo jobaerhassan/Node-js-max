@@ -1,0 +1,26 @@
+{
+  "name": "node-js-max",
+  "version": "1.0.0",
+  "description": "complete node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobaerhassan/Node-js-max.git"
+  },
+  "keywords": [
+    "jobaer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobaerhassan/Node-js-max/issues"
+  },
+  "homepage": "https://github.com/jobaerhassan/Node-js-max#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
